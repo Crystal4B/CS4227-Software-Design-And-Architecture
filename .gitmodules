@@ -2,3 +2,7 @@
 	path = CS4227-Client
 	url = https://github.com/Crystal4B/CS4227-Client.git
 	branch = main
+[submodule "CS4227-Server"]
+	path = CS4227-Server
+	url = git@github.com:Crystal4B/CS4227-Server.git
+	branch = main
